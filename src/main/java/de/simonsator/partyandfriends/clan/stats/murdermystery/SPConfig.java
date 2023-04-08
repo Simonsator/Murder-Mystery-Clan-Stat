@@ -19,7 +19,7 @@ public class SPConfig extends ConfigurationCreator {
 	private void loadDefaultValues() {
 		set("database.host", "localhost");
 		set("database.port", 3306);
-		set("database.db", "villager");
+		set("database.db", "murdermystery");
 		set("database.user", "root");
 		set("database.password", "Password");
 		set("database.ssl", false);
