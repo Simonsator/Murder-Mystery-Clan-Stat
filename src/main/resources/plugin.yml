@@ -1,0 +1,7 @@
+name: Murder-Mystery-Clan-Stats
+version: ${project.version}
+author: Simonsator
+depends: [ Clans ]
+depend: [ Clans ]
+main: de.simonsator.partyandfriends.clan.stats.murdermystery.SPStatMain
+description: Provides stats for Clans for Murder Mystery
